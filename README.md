@@ -1,2 +1,2 @@
 # JAVASCRIPT
-java basics
+basics for js
